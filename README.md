@@ -26,11 +26,6 @@
         <td>Como atleta, quiero que la aplicación lo calcule para que pueda mantenerme en el camino.</td>
         <td>8</td>
     </tr>
-    <!-- Agrega las filas restantes de la misma manera -->
-</table>
-
-<table>
-    <tr>
         <th>Sprint</th>
         <th>Historia de Usuario</th>
         <th>Puntos</th>
@@ -56,10 +51,6 @@
         <td>Como atleta, quiero... (Historia de Usuario 10)</td>
         <td>4</td>
     </tr>
-</table>
-
-<table>
-    <tr>
         <th>Sprint</th>
         <th>Historia de Usuario</th>
         <th>Puntos</th>
@@ -81,6 +72,26 @@
         <td>Como atleta, quiero... (Historia de Usuario 14)</td>
         <td>5</td>
     </tr>
+        <th>Sprint</th>
+        <th>Historia de Usuario</th>
+        <th>Puntos</th>
+    </tr>
+    <tr>
+        <td rowspan="4">Sprint 4</td>
+        <td>Como atleta, quiero... (Historia de Usuario 15)</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Como atleta, quiero... (Historia de Usuario 16)</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Como atleta, quiero... (Historia de Usuario 17)</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Como atleta, quiero... (Historia de Usuario 18)</td>
+        <td>5</td>
+    </tr>
 </table>
-
 
