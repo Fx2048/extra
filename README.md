@@ -1,33 +1,53 @@
-<table>
+## SPRINT"#1:
+
+<table border="1">
     <tr>
-        <th>Sprint</th>
+        <th>ID</th>
         <th>Historia de Usuario</th>
+        <th>Prioridad</th>
+        <th>Esfuerzo</th>
         <th>Puntos</th>
     </tr>
     <tr>
-        <td rowspan="5">Sprint 1</td>
-        <td>Como atleta, quiero ingresar información de peso y altura.</td>
+        <td>1</td>
+        <td>Como atleta, quiero ingresar información de peso y altura, para que pueda usar esa información para rastrear y calcular otra información de salud.</td>
+        <td>Must Do</td>
+        <td>Low</td>
         <td>3</td>
     </tr>
     <tr>
-        <td>Como atleta, quiero que la aplicación rastree mi peso.</td>
-        <td>1</td>
+        <td>2</td>
+        <td>Como atleta, quiero que la aplicación rastree mi peso, para que pueda ver mis mejoras.</td>
+        <td>Must Do</td>
+        <td>Low</td>
+        <td>3</td>
     </tr>
     <tr>
-        <td>Como atleta, quiero establecer un peso objetivo.</td>
+        <td>3</td>
+        <td>Como atleta, quiero establecer un objetivo de peso, para que tenga una meta a alcanzar.</td>
+        <td>Should Do</td>
+        <td>Low</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Como atleta, quiero que la aplicación calcule cuántas libras por semana debería perder, para que pueda ver si estoy en camino con mis objetivos de peso.</td>
+        <td>Could Do</td>
+        <td>Moderate</td>
         <td>2</td>
     </tr>
     <tr>
-        <td>Como atleta, quiero que la aplicación calcule cuántas libras por semana debería perder.</td>
+        <td>5</td>
+        <td>Como atleta, quiero que la aplicación calcule cuántas libras por semana debería perder, para que pueda ver si estoy en camino con mis objetivos de peso.</td>
+        <td>Could Do</td>
+        <td>Moderate</td>
         <td>2</td>
     </tr>
-    <tr>
-        <td>Como atleta, quiero que la aplicación lo calcule para que pueda mantenerme en el camino.</td>
-        <td>8</td>
-    </tr>
-    <!-- Agrega las filas restantes de la misma manera -->
 </table>
 
+
+
+## SPRINT#2:
 <table border="1">
     <tr>
         <th>ID</th>
