@@ -87,7 +87,8 @@
 </table>
 
 
-## SPRINT 3
+
+
 <table>
     <thead>
         <tr>
@@ -106,7 +107,61 @@
             <td>Low</td>
             <td>3</td>
         </tr>
-        <!-- Agrega aquí las demás historias de usuario -->
+        <tr>
+            <td>2</td>
+            <td>As an athlete, I want the application to track my weight, so that I can see my improvements.</td>
+            <td>Must Do</td>
+            <td>Low</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>As an athlete, I want to set a target weight goal so that I have a goal point to reach!</td>
+            <td>Should Do</td>
+            <td>Moderate</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>As an athlete, I want the application to calculate how many pounds per week I should lose, so that I can see if I'm on track with my weight goals.</td>
+            <td>Could Do</td>
+            <td>Low</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>As an athlete, I want to enter exercise data info, so that I can track my activity.</td>
+            <td>Should Do</td>
+            <td>Moderate</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>As an athlete, I want the application to calculate the amount of calories burned in a workout based on the activity and my body size, so that I know the results of my workout.</td>
+            <td>Could Do</td>
+            <td>Low</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>As an athlete, I want to be able to enter what I eat if I am not exercising frequently enough, so that I stay in shape.</td>
+            <td>Must Do</td>
+            <td>Moderate</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>As an athlete, I want the application to notify me if I am not meeting my nutrition goals, so I can quickly turn my consumption around.</td>
+            <td>Should Do</td>
+            <td>Moderate</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>As an athlete, I want to enter calories for meals so that I can track my nutrition.</td>
+            <td>Could Do</td>
+            <td>Low</td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
-
