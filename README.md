@@ -86,3 +86,27 @@
     </tr>
 </table>
 
+
+## SPRINT 3
+<table>
+    <thead>
+        <tr>
+            <th>USER ID</th>
+            <th>USER STORY</th>
+            <th>PRIORITY</th>
+            <th>RISK</th>
+            <th>STORY POINTS</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>As an athlete, I want to enter weight and height information, so that I can use that information to track and calculate other health information.</td>
+            <td>Must Do</td>
+            <td>Low</td>
+            <td>3</td>
+        </tr>
+        <!-- Agrega aquí las demás historias de usuario -->
+    </tbody>
+</table>
+
